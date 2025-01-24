@@ -1,0 +1,25 @@
+# NAME file for unsf example
+#
+# Output files
+list            12     ex.lst OLD
+DATA              37 ex.fhd REPLACE
+DATA              38 ex.fdn REPLACE
+#OC               39 ex.oc OLD
+#
+# Global input files
+dis             21     ex.dis OLD
+zone            23     ex.zon OLD
+#
+# Flow process input files
+bas6            31     ex.ba6 OLD
+lpf             32     ex.lpf OLD
+pcg             33     ex.pcg OLD
+wel             34      ex.wel OLD
+ghb             27      ex.ghb OLD
+
+# rch             35     ex.rch
+unsf            35     ex.uns OLD
+DATA(BINARY)   41     ex.bud REPLACE
+DATA(BINARY)    42     ex.shd REPLACE
+DATA(BINARY)    9      ex.cbc REPLACE
+lmt6            90     ex.lmt OLD

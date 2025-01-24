@@ -1,0 +1,73 @@
+# Example1
+# Transient
+    10   18   26  50    3    2       #Item 1:NLAY,NROW,NCOL,NPER,ITMUNI(4:day),LENUNI(2:m,3:cm)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   				     #Item 2:LAYCBD(0:no confining bed)
+CONSTANT   0.20              #Item 3:DELR
+CONSTANT   0.20              #Item 4:DELC
+CONSTANT 3.00000E+00 Top of system
+CONSTANT 1.800000E+00  BOTM Layer 1
+CONSTANT 1.600000E+00  BOTM Layer 2
+CONSTANT 1.400000E+00  BOTM Layer 3
+CONSTANT 1.200000E+00  BOTM Layer 4
+CONSTANT 1.000000E+00  BOTM Layer 5
+CONSTANT 0.800000E+00  BOTM Layer 6
+CONSTANT 0.600000E+00  BOTM Layer 7
+CONSTANT 0.400000E+00  BOTM Layer 8
+CONSTANT 0.200000E+00  BOTM Layer 9
+CONSTANT 0.000000E+00  BOTM Layer 10
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+1.0   1   1.00E+00  TR        #Item 7:PERLEN,NSTP,TSMULT,Ss/tr
+
+
+
+
+
+

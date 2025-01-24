@@ -1,0 +1,9 @@
+"ex.zon"                                zonation file
+"Solute details"                        1D-HYDRUS-MODFLOW output file with concentration data at the water table interface
+"Sumvbot"                               1D-HYDRUS-MODFLOW output file with water flow data  at the water table interface
+26 18                                   number of columns, number of row in the saturated model grid
+"ex.crch"                               root of the files to be created with 'recharge' concentration; is iput for MT3DMS
+(26F12.4)                               format of output of 'recharge'concentration  
+"ex.ftl"                                1D-HYDRUS-MODFLOW output file with water fluxes in saturated part  
+"ex.ftl2"                               file to be created with water fluxes in saturated part with recharge; input for MT3dMS
+0.04                                    horizontal surfacea are of model cells; Unit:  the square of the unit of length used in MT3DMS domain

@@ -1,0 +1,32 @@
+         1         0         2         0              /ISOTHM,IREACT,IRCTOP,IGETSC      (ISOTHM: 1 linear; 2 Frendlich; 3 Langmuir)
+         0    1500.0                                  /RHOB (bulk density)        Layer 1
+         0    1500.0                                  /RHOB (bulk density)        Layer 2
+         0    1500.0                                  /RHOB (bulk density)        Layer 3
+         0    1500.0                                  /RHOB (bulk density)        Layer 4
+         0    1500.0                                  /RHOB (bulk density)        Layer 5
+         0    1500.0                                  /RHOB (bulk density)        Layer 6
+         0    1500.0                                  /RHOB (bulk density)        Layer 7
+         0    1500.0                                  /RHOB (bulk density)        Layer 8
+         0    1500.0                                  /RHOB (bulk density)        Layer 9
+         0    1500.0                                  /RHOB (bulk density)        Layer 10
+         0    0.0003                                  /SP1    Layer 1  (ISOTHM: 1: Kd; 2 Kf; 3 Kt)
+         0    0.0003                                  /SP1    Layer 2
+         0    0.0003                                  /SP1    Layer 3
+         0    0.0003                                  /SP1    Layer 4
+         0    0.0003                                  /SP1    Layer 5
+         0    0.0003                                  /SP1    Layer 6
+         0    0.0003                                  /SP1    Layer 7
+         0    0.0003                                  /SP1    Layer 8
+         0    0.0003                                  /SP1    Layer 9
+         0    0.0003                                  /SP1    Layer10
+         0         0                                  /SP2    Layer 1  (ISOTHM: 1: not used; 2 a; 3 S)
+         0         0                                  /SP2    Layer 2
+         0         0                                  /SP2    Layer 3
+         0         0                                  /SP2    Layer 4
+         0         0                                  /SP2    Layer 5
+         0         0                                  /SP2    Layer 6
+         0         0                                  /SP2    Layer 7
+         0         0                                  /SP2    Layer 8
+         0         0                                  /SP2    Layer 9
+         0         0                                  /SP2    Layer 10
+

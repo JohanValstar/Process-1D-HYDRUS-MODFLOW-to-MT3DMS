@@ -1,0 +1,25 @@
+# Example1
+#
+FREE                                      #options
+CONSTANT  1                   #IBOUND - single active cell Layer 1
+CONSTANT  1                   #IBOUND - single active cell Layer 2
+CONSTANT  1                   #IBOUND - single active cell Layer 3
+CONSTANT  1                   #IBOUND - single active cell Layer 4
+CONSTANT  1                   #IBOUND - single active cell Layer 5
+CONSTANT  1                   #IBOUND - single active cell Layer 6
+CONSTANT  1                   #IBOUND - single active cell Layer 7
+CONSTANT  1                   #IBOUND - single active cell Layer 8
+CONSTANT  1                   #IBOUND - single active cell Layer 9
+CONSTANT  1                   #IBOUND - single active cell Layer 10
+-999.000000                               #HNOFLO
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 1
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 2
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 3
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 4
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 5
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 6
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 7
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 8
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 9
+CONSTANT   2.00000E+00    #Initial Head in the active cell Layer 10
+
